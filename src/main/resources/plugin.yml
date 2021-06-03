@@ -1,0 +1,4 @@
+name: AntiCooldown-PlayerDataFix
+version: 1.0.0
+author: YourGameSpace
+main: com.yourgamespace.anticooldown.datafix.main.AntiCooldownDataFix
