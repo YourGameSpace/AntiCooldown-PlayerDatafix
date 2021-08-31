@@ -17,8 +17,8 @@
 
     <repositories>
         <repository>
-            <id>repo.yourgamespace.com</id>
-            <url>https://hub.yourgamespace.com/repo/</url>
+            <id>nexus.yourgamespace</id>
+            <url>https://hub.yourgamespace.com/nexus/repository/public/</url>
         </repository>
         <repository>
             <id>codemc-repo</id>
@@ -30,7 +30,7 @@
     <dependencies>
         <dependency>
             <groupId>org.spigotmc</groupId>
-            <artifactId>spigot</artifactId>
+            <artifactId>spigot-api</artifactId>
             <version>1.14.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
